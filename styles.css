@@ -111,9 +111,11 @@ hr {
 }
 .aboutName {
   color: #eeeeee;
+   margin-bottom: 60px; 
 }
 .aboutTitle {
   color: #00adb5;
+   margin-bottom: 60px; 
 }
 .aboutMeParagraf {
   text-align: justify;
@@ -168,6 +170,7 @@ hr {
   margin: 2rem auto;
   max-width: 1200px;
 }
+
 .contactTitle {
   display: flex;
   align-items: center;
